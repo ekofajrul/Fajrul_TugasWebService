@@ -1,0 +1,34 @@
+name: myflutter
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Tambahkan bagian assets di sini
+  assets:
+    - assets/images/background.jpg
+    - assets/images/Gambar WhatsApp 2024-10-29 pukul 15.32.58_68e30431.jpg
+    - assets/images/agil2.jpg
+    - assets/images/agil3.jpg
+    - assets/images/Gambar WhatsApp 2024-10-29 pukul 15.36.28_5bc90252.jpg
+    - assets/images/Gambar WhatsApp 2024-10-29 pukul 15.36.28_e58671d1.jpg
+    - assets/images/agil6.jpg
+    - assets/images/profileagil.jpg
+    - assets/images/Gambar WhatsApp 2024-10-29 pukul 15.36.28_9f28dfab.jpg
+    - assets/images/Gambar WhatsApp 2023-11-01 pukul 15.14.21_1adac7a9.jpg
